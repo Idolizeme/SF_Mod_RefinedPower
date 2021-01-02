@@ -25,7 +25,7 @@ Boiler MK2 :
 |===
 | Building Name  | Item Tested | Consumption | Production  
 
-| Boiler Mk1     | Water       | ~44/Min     | ~72/Min     
+| Boiler Mk1     | Water       | ~64/Min     | ~101/Min     
 
-| Boiler Mk2     | Water       | ~77/Min     | ~123/Min    
+| Boiler Mk2     | Water       | ~112/Min     | ~180/Min    
 |===
