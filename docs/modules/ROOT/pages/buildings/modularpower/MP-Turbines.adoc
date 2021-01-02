@@ -12,9 +12,9 @@ The Low Pressure Steam must be piped out the turbines into a Steam cooling tower
 |===
 | Building Name   | Item Tested         | Consumption | Production 
 
-| Turbine Mk1     | High Pressure Steam | ~25/Min     | ~15/Min    
+| Turbine Mk1     | High Pressure Steam | ~35/Min     | ~18/Min    
 
-| Turbine Mk2     | High Pressure Steam | ~45/Min     | ~22/Min    
+| Turbine Mk2     | High Pressure Steam | ~64/Min     | ~32/Min    
 |===
 
 ## Building Cost:
